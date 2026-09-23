@@ -3,3 +3,4 @@ Learning git step by step
 This was written on feature branch
 Profile page created
 login page created
+Settings page created
