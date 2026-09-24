@@ -1,4 +1,4 @@
-Hello Git
+ello Git
 Learning git step by step
 This was written on feature branch
 Profile page created
